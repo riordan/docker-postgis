@@ -1,2 +1,4 @@
 # docker-postgis
-Docker Image for Postgresql/Postgis
+
+PostgreSQL w/ PostGIS extensions
+built from [PostgreSQL Docker Image](https://hub.docker.com/_/postgres/)
